@@ -1,0 +1,4 @@
+MyLib Reference
+===============
+
+.. doxygennamespace:: MyLib
